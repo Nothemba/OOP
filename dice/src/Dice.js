@@ -34,9 +34,3 @@ class DiceTester extends DiceFactory{
       
 }    
 };
-// let dice6 = new DiceFactory(6);
-// let dice20 = new DiceFactory(20);
-// let dicetester = new DiceTester();
-// console.log(dicetester.testDie(dice6));
-
-

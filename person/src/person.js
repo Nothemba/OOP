@@ -11,7 +11,3 @@ class Person{
    } 
 }
 }
-// let person = new Person("Emihle", 2, "female", "singing");
-// let person1 = new Person("Unako", 6,"male", "dancing")
-// person.sayHello();
-// person1.sayHello();
